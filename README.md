@@ -11,7 +11,7 @@ Manage your tasks efficiently with this simple To-Do List App!
 ## Usage
 
 1. Clone the repository:
-git clone https://github.com/yourusername/todo-list-app.git
+git clone https://github.com/homadb/To-Do-list-App.git
 
 2. Navigate to the project directory:
 cd todo-list-app
